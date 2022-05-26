@@ -3,9 +3,9 @@
 This Project is a Gobang board game
 
 
-### Team member
-## YUFAN XU - 1277106 - yufanx1
-## YUHANG YAO - 1297297 - yuhyao1
+## Team member
+### YUFAN XU - 1277106 - yufanx1
+### YUHANG YAO - 1297297 - yuhyao1
 
 Open [https://www.youtube.com/watch?v=wVovYwv6aAg](https://www.youtube.com/watch?v=wVovYwv6aAg) to view game process.
 
