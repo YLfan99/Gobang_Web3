@@ -2,7 +2,7 @@
 
 This Project is a Gobang board game
 
-Open [https://www.youtube.com/watch?v=wVovYwv6aAg](https://www.youtube.com/watch?v=wVovYwv6aAg) to view it in the browser.
+Open [https://www.youtube.com/watch?v=wVovYwv6aAg](https://www.youtube.com/watch?v=wVovYwv6aAg) to view process in the browser.
 
 We use truffle react box as quick start framework and use Ganache as a testChain for our test account.
 
