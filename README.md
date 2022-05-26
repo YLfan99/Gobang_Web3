@@ -4,7 +4,7 @@ This Project is a Gobang board game
 
 We use truffle react box as quick start framework and use Ganache as a testChain for our test account.
 
-## Available Scripts
+## Run Rroject
 
 In order to run the project
 
