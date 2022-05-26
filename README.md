@@ -4,7 +4,7 @@ This Project is a Gobang board game
 
 We use truffle react box as quick start framework and use Ganache as a testChain for our test account.
 
-## Run Rroject
+## Run Project script
 
 In order to run the project
 
@@ -29,6 +29,9 @@ Then you can go client folder and run client.
 ### `npm run start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+## Play Board Game rule
 
 ### Login 2 account in 2 browser
 
@@ -57,6 +60,10 @@ The transcation need some time, so you need wait some time for page updating. I 
 After someone win, he would get 1 eth and the page in both players would show a winner address.  Now, No one can move the chess and all show 'Not your turn' in the page.
 
 After wining, any player can click clear to reinitial the game.(Also need to click 'Start Game' and 'join Game' to play)
+
+
+
+
 
 
 
