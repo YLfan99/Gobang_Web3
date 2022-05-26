@@ -2,6 +2,8 @@
 
 This Project is a Gobang board game
 
+Open [https://www.youtube.com/watch?v=wVovYwv6aAg](https://www.youtube.com/watch?v=wVovYwv6aAg) to view it in the browser.
+
 We use truffle react box as quick start framework and use Ganache as a testChain for our test account.
 
 ## Run Project script
@@ -60,6 +62,9 @@ The transcation need some time, so you need wait some time for page updating. I 
 After someone win, he would get 1 eth and the page in both players would show a winner address.  Now, No one can move the chess and all show 'Not your turn' in the page.
 
 After wining, any player can click clear to reinitial the game.(Also need to click 'Start Game' and 'join Game' to play)
+
+
+
 
 
 
