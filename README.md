@@ -30,15 +30,21 @@ Then you can go client folder and run client.
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+### Login 2 account in 2 browser
+
 In order to play the game, you should open 2 browser (like Edge and Chrome).
 
 With each browser, you should login different accounts.
+
+### click 'Start Game' and 'join Game'
 
 After login the game, you can first click 'Start Game' with one player and click 'join Game' with another player.
 
 'Start Game' and 'join Game' need 5 eth to pay the contract. After paying, player is in Game.
 
-Be careful, if no one start the game, no one can join the game. So the 'Start Game' first then 'join Game '
+Be careful, if no one start the game, no one can join the game. So the 'Start Game' first then 'join Game'
+
+### information and rule about the game
 
 The websit would show some information about the game.
 
@@ -48,9 +54,12 @@ The rule is like Tic-Tac, but 5 would win.
 
 The transcation need some time, so you need wait some time for page updating. I aslo set a time that 25s refreash the page to get the latest board. 
 
-After someone win, he would get 1 eth and the page in both players would show a winner address.  Now, No one  can move the chess and all show 'Not your turn' in the page.
+After someone win, he would get 1 eth and the page in both players would show a winner address.  Now, No one can move the chess and all show 'Not your turn' in the page.
 
 After wining, any player can click clear to reinitial the game.(Also need to click 'Start Game' and 'join Game' to play)
+
+
+
 
 
 
