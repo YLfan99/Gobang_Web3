@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 This Project is a Gobang board game
 
 We use truffle react box as quick start framework and use Ganache as a testChain for our test account.
@@ -16,7 +16,6 @@ We use truffle react box as quick start framework and use Ganache as a testChain
 Open [https://www.youtube.com/watch?v=wVovYwv6aAg](https://www.youtube.com/watch?v=wVovYwv6aAg) to view game process.
 
 
->>>>>>> 04e303b498acc7bb04453bbf7e5aee0b44048681
 ## Run Project script
 
 In order to run the project
@@ -74,25 +73,3 @@ After someone win, he would get 1 eth and the page in both players would show a 
 
 After wining, any player can click clear to reinitial the game.(Also need to click 'Start Game' and 'join Game' to play)
 
-
-
-<<<<<<< HEAD
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> 04e303b498acc7bb04453bbf7e5aee0b44048681
